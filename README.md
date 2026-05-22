@@ -1,0 +1,1 @@
+# Projeto_Integrador_AWS_Poder_das_Palavras_Ciencia_de_Dados
