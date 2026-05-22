@@ -1,1 +1,6 @@
-# Projeto_Integrador_AWS_Poder_das_Palavras_Ciencia_de_Dados
+# AWS - O Poder das Palavras 💻
+
+
+
+
+######  Projeto de Extensão Universitária desenvolvido no Centro Universitário UniSenai, no curso de Inteligência e Análise de Dados.
