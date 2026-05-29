@@ -3,4 +3,4 @@
 
 
 
-######  Projeto de Extensão Universitária desenvolvido no Centro Universitário UniSenai, no curso de Inteligência e Análise de Dados.
+######  Projeto Integrador desenvolvido no Centro Universitário UniSenai, no curso de Inteligência e Análise de Dados.
