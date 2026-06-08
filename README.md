@@ -5,24 +5,25 @@
 
 ###### Integrantes  Ana, Justino e Gabriel
 
-Este projeto visa analisar qual a relação entre a Avaliação do usuário e o comentário do mesmo.
-Para isso foram utilizadas algumas bibliotecas que mostram uma numeração conforme a detecção sobre um texto ser positivo ou negativo.
-Também foi desenvolvida uma função prória para efetuar a mesma detecção.
-Posteriormente foi efetuada uma EDA com os dados.
-
-Além dos comentários, os conjuntos de dados também mostram dados como Produtos, Vendedores e Localização
-
-Os dados tratados e já avaliados são disponibilizados em um arquivo Parquet: aws.parquet
+> Este projeto visa analisar qual a relação entre a Avaliação do usuário e o comentário do mesmo.
+> Para isso foram utilizadas algumas bibliotecas que mostram uma numeração conforme a detecção sobre um texto ser positivo ou negativo.
+> Também foi desenvolvida uma função prória para efetuar a mesma detecção.
+> Posteriormente foi efetuada uma EDA com os dados.
+> Além dos comentários, os conjuntos de dados também mostram dados como Produtos, Vendedores e Localização
+> Os dados tratados e já avaliados são disponibilizados em um arquivo Parquet: aws.parquet
 
 ---
 
 ## Conceito Geral
 
-Python Notebook: project_eda_aws_100426.ipynb
-Dicionário de Dados: 
-DER: Arquitetura_de_Dados_DER_aws_shop.drawio.svg
-Apresentação: Presentation.pdf
+> Aplicar os conhecimentos de Python e Análise Descritiva Exploratória para devolver uma solução para Amazon
 
+## Files
+
+* Python Notebook: project_eda_aws_100426.ipynb
+* Dicionário de Dados: 
+* DER: Arquitetura_de_Dados_DER_aws_shop.drawio.svg
+* Apresentação: Presentation.pdf
 
 ## Implementação
 
