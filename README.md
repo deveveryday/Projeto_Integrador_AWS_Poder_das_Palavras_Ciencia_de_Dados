@@ -3,7 +3,7 @@
 ######  Projeto Integrador desenvolvido no Centro Universitário UniSenai, no curso de Inteligência e Análise de Dados.
 
 
-###### Integrantes  Ana, Justino e Gabriel
+###### Integrantes: Ana, Gabriel e Justino
 
 > Este projeto visa analisar qual a relação entre a Avaliação do usuário e o comentário do mesmo.
 > Para isso foram utilizadas algumas bibliotecas que mostram uma numeração conforme a detecção sobre um texto ser positivo ou negativo.
